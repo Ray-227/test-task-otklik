@@ -1,0 +1,10 @@
+{
+  "name": "test-task-otklik",
+  "version": "1.0.0",
+  "private": true,
+  "author": "Ray <ray-227@yandex.com>",
+  "devDependencies": {
+    "webpack": "^5.74.0",
+    "webpack-cli": "^4.10.0"
+  }
+}
